@@ -5,10 +5,9 @@
 //  Created by users on 5/24/3 R.
 //
 
-#include <stdio.h>
+#include <stdio.h> //standard input output 
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main() {
+    printf("Hello, World");
     return 0;
 }
